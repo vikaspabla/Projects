@@ -9,4 +9,6 @@ from employee
 order by levels desc
 limit 1
 
-Answer - We have the table named employee which holds the information about all the employees. We select the information from employee and to order the table by levels which is respective to employees and their seniority in the company.
+Answer - We have the table named employee which holds the information about all the employees. 
+          We select the information from employee and to order the table by levels which is respective to 
+          employees and their seniority in the company.
